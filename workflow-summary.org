@@ -1,0 +1,10 @@
+* Creating a post
+  $ cd ~/tmp/octopress/
+  ensure your on branch 'source'
+  $ rake new_post["title"]
+* Deploying a post
+  $ rake generate
+  $ rake deploy
+  $ git add .
+  $ git commit -m 'your message'
+  $ git push origin source
