@@ -1,3 +1,8 @@
+* If everything seems to go wrong with git
+  http://blog.zerosharp.com/clone-your-octopress-to-blog-from-two-places/
+  http://stackoverflow.com/a/32876804/1062607
+  The first link describes howto use the system from multiple places
+  The second provides a solution if you fucked up
 * Don't forget to switch python environmet
   $ workon blog_env
   see ~/.bashrc for details
